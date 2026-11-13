@@ -1,0 +1,23 @@
+
+# PSE em Ação
+
+Sistema de Planejamento e Acompanhamento de Ações de Saúde na Escola.
+
+## Objetivo
+O projeto tem como objetivo auxiliar no cadastro, organização e acompanhamento de ações de saúde realizadas no ambiente escolar.
+
+## Funcionalidades
+- Cadastro de ações.
+- Listagem de ações.
+- Pesquisa por código, escola ou tema.
+- Atualização da situação das ações.
+- Registro de participantes.
+- Resumo geral das ações.
+
+## Tecnologias
+- Linguagem de programação: C (confirmar conforme o código-fonte).
+- Estruturas de dados e funções.
+
+## Integrantes
+- Enzo Rafael Mendonça Freitas
+- Ariel Coutinho Meneses
